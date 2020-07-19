@@ -1,0 +1,4 @@
+Resources:
+  - jenkins_pvc.yml
+  - service.yml
+  - deploy.yml
